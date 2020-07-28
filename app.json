@@ -1,0 +1,12 @@
+{
+  "name": "bitfywallet",
+  "displayName": "bitfywallet",
+  "expo": {
+    "name": "bitfywallet",
+    "slug": "bitfywallet",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
